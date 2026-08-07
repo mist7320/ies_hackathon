@@ -1,0 +1,5 @@
+﻿# ignore local data
+DATA/
+node_modules/
+__pycache__/
+.env
